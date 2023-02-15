@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "63ec81418fe42ffb37372850"
+  },
+  "id": 2,
+  "name": "IT",
+  "address": "pune"
+},{
+  "_id": {
+    "$oid": "63ec92a78fe42ffb37372851"
+  },
+  "id": 1,
+  "name": "MECH",
+  "address": "mumbai"
+},{
+  "_id": {
+    "$oid": "63ec92bd8fe42ffb37372852"
+  },
+  "id": 3,
+  "name": "Analytical",
+  "address": "nashik"
+},{
+  "_id": {
+    "$oid": "63ec92db8fe42ffb37372853"
+  },
+  "id": 4,
+  "name": "Quality",
+  "address": "delhi"
+}]
