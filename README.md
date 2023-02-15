@@ -1,2 +1,4 @@
 # MongoAPI
-> In mongodb create database transflower and import departments.json to run project
+> API built using **MongoDB,Express,Node.js** <br>
+> To run API
+> In **MongoDB ** create database transflower and import departments.json
